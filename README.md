@@ -7,7 +7,7 @@
 * Fourier Transform
 * 시계열데이터(빨강) -> 복수의 정현파 주파수 영역으로 변환
 
-![01_FT](.\Image\01_FT.png)
+![01_FT](Image/01_FT.png)
 
 
 
@@ -23,7 +23,7 @@
 * O(NlogN)계산량
 * 문제점 : Gibbbs Phenomenon /  시간축 손실
 
-![02_FFT](.\Image\02_FFT.png)
+![02_FFT](Image/02_FFT.png)
 
 
 
@@ -32,7 +32,7 @@
 * called power spectrum or spectrum density
 * 확률론적인 확률과정 모형을 주파수 영역으로 변환
 
-![03_Spectrum](.\Image\03_Spectrum.png)
+![03_Spectrum](Image/03_Spectrum.png)
 
 
 
@@ -43,7 +43,7 @@
 * 주파수 특성이 시간데 따라 달라지는 사운드를 분석하기 위한 방법
 * 시계열을 일정한 시간구간으로 나누고 각 구간에 대해 스펙트럼을 구한 데이터
 
-![04_STFT](.\Image\04_STFT.png)
+![04_STFT](Image/04_STFT.png)
 
 
 
@@ -53,7 +53,7 @@
 * Y축 : 진동수(Frequency)
 * Z축 : 진폭(Magnitude)
 
-![05_Spectrogram](.\Image\05_Spectrogram.png)
+![05_Spectrogram](Image/05_Spectrogram.png)
 
 
 
